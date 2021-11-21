@@ -1,0 +1,94 @@
+*{
+    font-family: 'Times New Roman';
+}
+ body {
+     margin: 0;
+ }
+
+header{
+    background-image: url("/images/background_imageHeader.jpg");
+}
+
+.header-section{
+text-align: center;
+
+}
+
+h1{
+letter-spacing: 5px;
+color: #005677;
+font-weight: 700;
+font-size: 35px;
+line-height: 29.64px;
+background: #C4C4C4;
+}
+
+h2{
+letter-spacing: 5px;
+color: #005677;
+font-weight: 700;
+background: #C4C4C4;
+font-size: 20px;
+line-height: 16.94px;
+}
+
+h3 {
+    letter-spacing: 5px;
+color: #ffffff;
+font-weight: 700;
+
+font-size: 20px;
+}
+.education-article{
+    margin-top: 10px;
+}
+.education-article p {
+    display: inline-block;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+}
+
+.education-article p.period{
+    margin-left: 19px;
+    vertical-align: top;
+    width: 70px;
+
+}
+
+.education-article p.description{
+    width: 60%;
+}
+.job-experiences-section p{    
+    display: inline-block;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+}
+ .job-experiences-section{
+    margin-top: 10px;
+} 
+
+.job-experiences-section p.description{
+    width: 50%;
+}
+.job-experiences-section p.period{
+    margin-left: 19px;
+    vertical-align: top;
+    width: 70px;
+}
+.footer-section {
+    background: #005677;
+
+}
+
+.footer-section  {
+    text-align: center;
+    
+}
+.footer-section h3 {
+    display: inline-block;
+}
+.footer-section img {
+    margin-left: 26px;
+}
